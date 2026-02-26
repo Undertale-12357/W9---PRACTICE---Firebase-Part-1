@@ -21,6 +21,8 @@ lib/Term2/w4
 # Unuse Assets
 assets/Term1
 
+assets/
+
 # IntelliJ related
 *.iml
 *.ipr
